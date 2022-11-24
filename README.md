@@ -1,7 +1,7 @@
 ## Hi there, I'm Hung
 - 🌱 I’m currently learning everything 👻👻👻
 - 👯 I’m looking to collaborate with other developers for learning and sharing more
-- 😄 2021 Goals: having an interesting intern semester 
+- 😄 2022 Goals: having an interesting challenge on new journey
 - 🍻 Interests: ️🏀 ️🎶 ⚽️
 - ⚡ Fun fact: I can sleep everywhere 😿😿😿
 
