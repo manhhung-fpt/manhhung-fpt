@@ -17,4 +17,4 @@
 
 [linkedin]: https://www.linkedin.com/in/hungtran-fpt/
 [facebook]: https://www.facebook.com/t.m.hung2308/
-[my porfolio]: https://https://manhhung-fpt.github.io/
+[my porfolio]: https://manhhung-fpt.github.io/
