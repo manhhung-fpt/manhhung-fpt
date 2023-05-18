@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/use-case-messaging-99f006797e014cb4f0d36462f6178d61.webm)]
+[![MasterHead](https://camo.githubusercontent.com/721e303ab0d90be24bd195a9da93b7044db963c4e2ded4a7fc516e353779e976/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323434323131352f73637265656e73686f74732f383639393439302f6d656469612f34386262646132373836383363373837396265626435376630653266393237312e676966)]([https://rishavchanda.io](https://www.linkedin.com/in/hungtran-fpt/))
 <h1 align="center">Hi 👋, I'm Hùng</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
